@@ -50,9 +50,9 @@ How to Run the Project
 8. *Run the model to generate an image*<br>
 The first argument is the path to the content image, the second is the path to the style image, and the third is the path where the generated image will be saved. You can also specify optional parameters such as learning rate, content weight, style weight, and epochs. By default, the learning rate is set to 5, the style weight to 10, the content weight to 1000, and the number of epochs to 3000.
 - To use default parameters:<br>
-`python src/models/make_prediction.py "PATH/TO/CONTENT/IMAGE.jpg" "PATH/TO/STYLE/IMAGE.jpg"`
+`python src/models/make_prediction.py "PATH/TO/CONTENT/IMAGE.jpg" "PATH/TO/STYLE/IMAGE.jpg" "PATH/TO/SAVE/IMAGE.jpg"`
 - To customize parameters:<br>
-`python src/models/make_prediction.py "PATH/TO/CONTENT/IMAGE.jpg" "PATH/TO/STYLE/IMAGE.jpg" learningRate contentWeight styleWeight epochs`
+`python src/models/make_prediction.py "PATH/TO/CONTENT/IMAGE.jpg" "PATH/TO/STYLE/IMAGE.jpg" "PATH/TO/SAVE/IMAGE.jpg" learningRate contentWeight styleWeight epochs`
 
 
 
