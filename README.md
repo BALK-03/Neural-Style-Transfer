@@ -1,5 +1,5 @@
-![zlafa](https://github.com/user-attachments/assets/796ce373-03dc-46d5-aa67-f682d080c72e)
-![+ (1)](https://github.com/user-attachments/assets/d9d3fbcc-6577-433c-a85c-8052e287329f)
+![zlafa](https://github.com/BALK-03/Neural-Style-Transfer/blob/master/saved_images/1.png)
+![+ (1)](https://github.com/BALK-03/Neural-Style-Transfer/blob/master/saved_images/2.png)
 
 
 
